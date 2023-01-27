@@ -1,6 +1,5 @@
 # Cashton Holbert
-# 12/4/22
-# Assignment 4
+# Boosting Algorithm
 # 142 Machine Learning
 import numpy as np
 
