@@ -1,5 +1,5 @@
 # Cashton Holbert
-# Boosting Algorithm
+# Boosting Model
 # 142 Machine Learning
 import numpy as np
 
